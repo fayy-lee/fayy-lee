@@ -3,6 +3,7 @@
 Welcome to my GitHub!
 
 ✏️ Computer Science (Co-Op) Student @ uOttawa
+
 💼 I'm currently looking for opportunities for Summer 2024!
 
 ## 🛠️ Skills
