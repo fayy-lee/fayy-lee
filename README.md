@@ -2,9 +2,9 @@
 
 Welcome to my GitHub!
 
-✏️ Computer Science (Co-Op) Student @ uOttawa
+✏️ Computer Science Student @ uOttawa
 
-💼 I'm currently looking for opportunities for Fall 2024 and Winter 2025!
+💼 I'm currently looking for opportunities for Winter and Summer 2025!
 
 ## 🛠️ Skills
 Here are some of the technologies and tools I'm proficient in:
