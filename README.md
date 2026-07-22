@@ -2,9 +2,9 @@
 
 Welcome to my GitHub!
 
-✏️ Computer Science Student @ uOttawa
+✏️ Graduating Computer Science Student
 
-💼 I'm currently looking for a Summer 2026 internship and new grad opportunities starting January 2027!
+💼 I'm currently looking for new grad opportunities starting January 2027!
 
 ## 🛠️ Skills
 Here are some of the technologies and tools I'm proficient in:
