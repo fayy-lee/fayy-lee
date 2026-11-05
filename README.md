@@ -64,6 +64,6 @@ I enjoy getting involved in the tech community! I've spent several years contrib
 
 ## Let's Connect!
 
-<a href="https://linkedin.com/in/fay-lee" target="_blank">LinkedIn</a> · <a href="https://faylee.tech" target="_blank">Portfolio</a> · <a href="https://github.com/fayy-lee" target="_blank">GitHub</a>
+<a href="https://linkedin.com/in/fay-lee" target="_blank">LinkedIn</a> · <a href="https://personal-site-git-master-fays-projects-28fd766c.vercel.app" target="_blank">Portfolio</a> · <a href="https://github.com/fayy-lee" target="_blank">GitHub</a>
 
 **Email:** flee081@uottawa.ca
